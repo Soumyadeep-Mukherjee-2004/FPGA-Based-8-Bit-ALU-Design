@@ -90,7 +90,7 @@ Waveforms verify correct operation for all select conditions.
 ---
 
 ## 👨‍💻 Author
-Subhajit Kumar Das  
+SOUMYADEEP MUKHERJEE 
 B.Tech - Electronics & Telecommunication Engineering
 
 ## 💡 Concepts Used
